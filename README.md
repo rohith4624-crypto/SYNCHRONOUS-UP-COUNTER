@@ -43,4 +43,29 @@ Developed by: RegisterNumber:
 
 **TRUTH TABLE**
 
+LOGICAL DIAGRAM 01:
+
+
+![LOGICAL DIAGRAM 01](https://github.com/user-attachments/assets/b7bb10e7-25f5-4d60-887e-4e234db12274)
+
+
+LOGICAL DIAGRAM 02:
+
+
+
+![LOGICAL DIAGRAM 02](https://github.com/user-attachments/assets/cc90dd6c-a738-4942-bc71-a4a396b1f0e0)
+
+
+
+STATE DIAGRAM 01:
+
+![STATE DIAGRAM](https://github.com/user-attachments/assets/ef072de6-69fe-418b-80c7-8e3aecc1c738)
+
+STATE DIADRAM 02:
+
+![STATE DIAGRAM 02](https://github.com/user-attachments/assets/4adf7e9c-bc37-4b89-b806-8e9c92358524)
+
+
+
+
 **RESULTS**
